@@ -17,6 +17,8 @@ A lightweight, 24/7 Slack bot built with Node.js and the Slack Bolt framework th
 * **Environment Management:** `dotenv`
 * **Process Manager (Deployment):** PM2
 
+  <img width="1916" height="977" alt="banner" src="https://github.com/user-attachments/assets/7c9f4f71-7790-4034-81ad-41aede293684" />
+
 ## Project Structure
 
 ```text
@@ -38,4 +40,4 @@ When running successfully, the console will log: ⚡ Bot is running!   24/7 Depl
 pm2 save
 LicenseBuilt for the Hack Club Stardance Challenge.
 
-<img width="1916" height="977" alt="banner" src="https://github.com/user-attachments/assets/7c9f4f71-7790-4034-81ad-41aede293684" />
+
