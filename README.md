@@ -37,3 +37,5 @@ Run the bot locally:Bashnode index.js
 When running successfully, the console will log: ⚡ Bot is running!   24/7 Deployment on NestTo keep Jarvis online continuously using PM2:Bashpm2 start index.js --name "jarvis-slack-bot"
 pm2 save
 LicenseBuilt for the Hack Club Stardance Challenge.
+
+<img width="1916" height="977" alt="banner" src="https://github.com/user-attachments/assets/7c9f4f71-7790-4034-81ad-41aede293684" />
